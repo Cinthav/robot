@@ -4,6 +4,8 @@ Welcome to the Vex Robotics repository, where I am thrilled to present the code 
 
 While I am proud of the work showcased here, I want to emphasize that I will promptly remove any files if I am prevented or prohibited from sharing them.
 
+The C files in the repository is a snapshot of the programs for two years and two different robots. Many iterations were made, but these files are good representations of the final products and highlight the main features of the robots.
+
 During my involvement with this project, I had the invaluable opportunity to work in a team environment, honing my skills in collaborative coding. It marked my first experience developing code with client specifications in mind, extending beyond class assignments and small-scale projects. The challenge of meeting the driver and engineer's requirements while ensuring reliability and consistency in the robot's code was both exciting and fulfilling.
 
 Notably, I had the privilege of working directly with the robot itself, gaining intimate knowledge of its various components. This hands-on experience greatly contributed to my understanding of the code's practical implementation.
