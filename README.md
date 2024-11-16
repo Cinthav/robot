@@ -1,8 +1,13 @@
 # About this Repository: Vex Robotics Showcase
 
-Welcome to the Vex Robotics repository, where I am thrilled to present the code that I developed in collaboration with the engineers of Garfield High School's team 154D, alongside other teams who provided valuable assistance.
+This is the Vex Robotics repository, where I have uploaded code in collaboration with the engineers of Garfield High School's team 154D, alongside other teams who provided valuable assistance.
 
 While I am proud of the work showcased here, I want to emphasize that I will promptly remove any files if I am prevented or prohibited from sharing them.
+Some code has been lost over the years because of my inexperience and lack of foresight.
+
+For a quick rundown of my contribution:
+- Designed and implemented robust autonomous capabilities for the robot in C++.
+- Updated change of speed capability for manual driving.
 
 The C files in the repository is a snapshot of the programs for two years and two different robots. Many iterations were made, but these files are good representations of the final products and highlight the main features of the robots.
 
